@@ -17,10 +17,12 @@
 ## Python
 
 * Russell -- I'm interested in learning general good practices, like PEP8. Also want to learn more OOP in Python.
+* Laura
 
 ### Psychopy
 
 * Rachael
+* Laura
 
 ## Ruby 
 
